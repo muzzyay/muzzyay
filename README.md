@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color=red;">
+<body>
+  <div class="banner">
   <p>
     <strong>Hey Look what's here</strog>
   </p>
 </div>
+ 
+<style>
+  .banner {
+  background-color: blue;
+  }
+</style>
+</body>

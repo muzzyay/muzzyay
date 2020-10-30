@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Full Stack Developer currently working with ReactJS, NodeJS, PostgreSQL, and many other cool tools.
-- 🌱 I’m currently learning and studying to get my AWS Developer Certificate.
+- 🌱 I’m currently studying to get my AWS Developer Certificate.
 - 📫 How to reach me: [muzzyay@gmail.com](mailto:muzzyay@gmail.com)
 - ⚡ Connect on [Linkedin](https://www.linkedin.com/in/mustafa-ay-a3325b74/)
 <!--
